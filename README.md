@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-  <a href="https://github.com/jm23456"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Hi,%20I'm%20Jana&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Master%20Student%20in%20Digital%20Humanities%20at%20EPFL%20&descSize=24&descAlignY=64" width="100%" alt="Your Name, Your Role" /></a>
+  <a href="https://github.com/jm23456"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:4F9D69&height=220&section=header&text=Hi,%20I'm%20Jana&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Master%20Student%20in%20Digital%20Humanities%20at%20EPFL%20&descSize=24&descAlignY=64" width="100%" alt="Your Name, Your Role" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+a+little+bit+about+myself,;%3E+my+experiences;%3E+and+my+interests." width="100%" alt="Your typing lines" />
 </p>
